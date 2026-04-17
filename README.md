@@ -33,4 +33,5 @@ Open frontend/index.html in browser
 REAL / FAKE prediction with word count
 
 ## 👨‍💻 Author
-Your Name
+PUDI DHANARAJ
+ 
